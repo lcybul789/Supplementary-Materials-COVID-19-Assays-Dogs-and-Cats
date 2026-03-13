@@ -1,0 +1,5 @@
+Test Type,Species,Sensitivity (%),Specificity (%),PPV (%),NPV (%)
+Antibody test,Dogs,70,60,64,67
+Antibody test,Cats,50,100,100,40
+Antigen test,Dogs,75,79,55,90
+Antigen test,Cats,57,95,80,87
